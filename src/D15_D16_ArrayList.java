@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Z {
+public class D15_D16_ArrayList {
     public static void main(String[] args) {
         ArrayList<Integer> l1 = new ArrayList<>();
         l1.add(10);
