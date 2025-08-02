@@ -17,6 +17,5 @@ public class D22_LambdaFunction {
 
         int result = addition.operation(10, 5);
         addition.printResult(result);
-
     }
 }

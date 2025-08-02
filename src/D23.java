@@ -20,6 +20,5 @@ public class D23 {
 
         System.out.println(isEven.test(10));
         System.out.println(isEven.test(15));
-
     }
 }
